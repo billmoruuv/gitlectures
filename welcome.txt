@@ -1,0 +1,3 @@
+Welcome to our Factory.
+This is Factory v1.0 
+# Instructions: remove the 1.0 and replace it by 2.0.ALPHA
